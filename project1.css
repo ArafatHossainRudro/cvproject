@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+    font-family: "Audiowide", sans-serif;
+
+}
+
+.container{
+    max-width:  1100px;
+    background-color: rgb(77, 50, 78);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+
+}
+
+/* header start */
+
+.profile-image{
+
+    width: 100px;
+    height: 120px;
+    border: 3px solid   rgb(238, 245, 176);
+    border-radius: 50%;
+    float:  left;
+}
+
+.header-bio{
+
+    float: left;
+    padding: 25px;
+}
+
+h1,h2,h3,h4,h5.h6{
+    color: #e0f803;
+}
+
+.header-contract{
+    float: right;
+    padding: 20px;
+}
+
+.header-contract a{
+    text-decoration: none;
+    color: rgb(111, 243, 3);
+    font-weight: bold;
+}
+
+.header-contract a:hover{
+    text-decoration: underline;
+    color: rgb(219, 96, 96);
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: 3px solid rgb(5, 5, 5);
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+/* header end */
+
+
+
+/* main start */
+/* personal section start */
+
+#personal section{
+    
+}
+
+.content{
+    padding: none;
+}
+
+.left-div{
+    
+    width: 30%;
+    float: left;
+}
+
+.right-div{
+
+    width: 70%;
+    float: left;
+}
+
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.edu-template-left{
+    float: left;
+    width: 50%;
+}
+
+.edu-template-left a{
+    text-decoration: none;
+    color: rgb(165, 245, 163);
+}
+
+.edu-template-left a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
+
+.edu-template-right{
+    float: right;
+    width: 50%;
+}
+
+.edu-template-right a{
+    text-decoration: none;
+    color: rgb(165, 245, 163);
+}
+
+.edu-template-right a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
+
+.referances-left{
+    float: left;
+    width: 50%;
+}
+
+.referances-left a{
+    text-decoration: none;
+    color: rgb(165, 245, 163);
+}
+
+.referances-left a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
+
+.referances-right{
+    float: right;
+    width: 50%;
+}
+
+.referances-right a{
+    text-decoration: none;
+    color: rgb(165, 245, 163);
+}
+
+.referances-right a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
+
+/* main end */
+/* personal section end */
+
+
+
+/* footer start */
+
+.footer1{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer1 a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 30px;
+}
+
+.footer1 a:hover{
+    color: rgb(6, 232, 248);
+}
+
+.footer1 p{
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+/* footer end */
